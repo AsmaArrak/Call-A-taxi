@@ -1,0 +1,6 @@
+.body {
+    background-image: url(taxi.webp);
+    background-size: cover;
+   
+    height: 500px;
+}
